@@ -4,8 +4,6 @@ A webbased (frontend) block sort game with different levels.
 
 ## How to install and play via browser (Android)
 
-[https://github.com/ZemouriZemouri/block-game](https://github.com/ZemouriZemouri/block-game/)
-
 Chrome example:
 
 1. Open the link in Chrome
