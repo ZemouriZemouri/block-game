@@ -45,9 +45,9 @@ export default defineConfig({
       },
 
       manifest: {
-        name: "Block Sort",
-        short_name: "Block Sort",
-        id: "com.matthijsgroen.blocksort",
+        name: "Block Game",
+        short_name: "Block Game",
+        id: "com.zemourizemouri.blockgame",
         description:
           "Sort stacks of blocks to the same color. No ads, no tracking, no payments. Make sure you don't get blocked!",
         theme_color: "#63462d",
@@ -85,7 +85,7 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src")
     }
   },
-  base: "/block-sort/",
+  base: "/block-game/",
   optimizeDeps: {
     esbuildOptions: {
       target: "esnext"
