@@ -18,10 +18,10 @@ export const AppCrashScreen: React.FC = () => {
         <p className="my-4 max-w-[300px] text-center">
           please e-mail me on{" "}
           <a
-            href={`mailto:matthijs.groen@gmail.com?subject=[BlockSort]-appCrash&body=Error%20message:%20${encodeURIComponent(error?.message ?? "unknown")}`}
+            href={`mailto:zemourizemouri@outlook.com?subject=[BlockSort]-appCrash&body=Error%20message:%20${encodeURIComponent(error?.message ?? "unknown")}`}
             className="underline"
           >
-            matthijs.groen@gmail.com
+            zemourizemouri@outlook.com
           </a>{" "}
           to notify me
         </p>
