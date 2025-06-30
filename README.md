@@ -8,7 +8,7 @@ Chrome example:
 
 1. Open the link in Chrome
 2. Open the "3 dots" menu (right above)
-3. Select 'Add to Home Screen'
+3. Select "Add to Home Screen"
 4. Confirm installation
 
 ## Level Types

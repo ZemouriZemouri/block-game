@@ -15,7 +15,7 @@ const meta: Meta<typeof Message> = {
   // More on argTypes: https://storybook.js.org/docs/api/argtypes
   argTypes: {},
   args: {
-    message: "Hello, World!"
+    message: "This is a Test!"
   },
   render: (args) => {
     return (
