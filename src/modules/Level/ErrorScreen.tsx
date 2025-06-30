@@ -34,10 +34,10 @@ export const ErrorScreen: React.FC<Props> = ({ onBack, levelNr, stageNr }) => {
         <p className="my-4 max-w-[300px] text-center">
           please e-mail me on{" "}
           <a
-            href={`mailto:matthijsgroen@gmail.com?subject=[BlockSort]-Failed-to-generate-level-${levelNr + 1}-${stageNr + 1}&body=Error%20message:%20${encodeURIComponent(error?.message ?? "unknown")}`}
+            href={`mailto:zemourizemouri@outlook.com?subject=[BlockGame]-Failed-to-generate-level-${levelNr + 1}-${stageNr + 1}&body=Error%20message:%20${encodeURIComponent(error?.message ?? "unknown")}`}
             className="underline"
           >
-            matthijs.groen@gmail.com
+            zemourizemouri@outlook.com
           </a>{" "}
           to notify me
         </p>
