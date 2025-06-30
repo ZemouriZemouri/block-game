@@ -11,7 +11,7 @@ Chrome example:
 3. Select "Add to Home Screen"
 4. Confirm installation
 
-## Level Types
+## Types of levels
 
 1. _Normal_ _levels_ - Will increase in amount of colors, and from level 160 will add a random variant that has 2 small buffers instead of a free column.
 
