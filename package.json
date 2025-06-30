@@ -1,10 +1,10 @@
 {
-  "name": "block-sorting",
+  "name": "block-game",
   "version": "1.39.2",
-  "description": "Mobile Block sorting game, as a Progressive Web App",
+  "description": "Block Game",
   "author": {
-    "name": "Matthijs Groen",
-    "email": "matthijs.groen@gmail.com"
+    "name": "ZemouriZemouri",
+    "email": "zemourizemouri@outlook.com"
   },
   "license": "CC BY-NC-SA 4.0",
   "private": true,
